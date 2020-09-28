@@ -1,5 +1,8 @@
 # SystemProgramming2_VGA-Display
 
+// PROGRAMS RUNS USING BOCHS DEBUGGER //
+
+
 Made improvements from my previous project (SystemProgramming_using_Intel_Intel_x86assembler) and starting playing around set pixel on screen operated by VGA Display.
 
 - I added several functions:
